@@ -1,0 +1,105 @@
+﻿body {
+    background-attachment:fixed;
+    margin: 0;
+    padding: 0;
+    background-image: url("Assets/bg_iocl.jpg");
+    background-color: black;
+    /* color: bisque; */
+    background-size: 100vw 100vh;
+    font-family: sans-serif;
+    /* font-family:  'Arial', sans-serif; */
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* background-color: slategray; */
+}
+.menu-button {
+    border-bottom: 3px solid slategrey;
+    padding:5px;
+    margin-left:10px;
+    cursor:pointer;
+}
+
+div {   
+    padding: 15px;
+    flex-wrap: wrap;
+}
+
+.chat-container {
+    position: fixed;
+    bottom: 2vh;
+    right: 2vb;
+    width: 38vb;
+    background-color: ghostwhite;
+    border: solid darkorange;
+    border-width: 5px 2px;
+    border-radius: 18px;
+    padding: 1.2vb;
+    box-shadow: 0 0 1vb rgb(132, 92, 54);
+    z-index: 2;
+    display: none;
+}
+
+.chat-header {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#closeBotBtn {
+    cursor: pointer;
+    background-color: darkorange;
+    border-radius: 50%;
+    border: 5px solid darkorange;
+}
+
+.chat-box {
+    min-height: 20vh;
+    max-height: 80vh;
+    overflow-y: scroll;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    align-items:flex-end;
+    padding:6px;
+}
+
+.user-message {
+    background-color: #e0f7fa;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.bot-message {
+    background-color: #c8e6c9;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+input {
+    padding: 2px;
+    padding-left: 6px;
+    border-bottom-style: solid;
+    border-color:darkorange;
+}
+
+#openBotBtn {
+    position: fixed;
+    bottom: 2vh;
+    right: 2vb;
+    padding: 10px;
+    background-color: #0012d7;
+    color: #fff;
+    border: ridge;
+    border-color: darkorange;
+    border-radius:10px;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.result{
+    background-color:darkorange;
+    border-radius:10px;
+    display:flex;
+    flex-direction:column-reverse;
+    padding:10px;
+}
