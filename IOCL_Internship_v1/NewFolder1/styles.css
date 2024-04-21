@@ -21,6 +21,10 @@
     cursor:pointer;
 }
 
+.aspNetHidden{
+    display:none
+}
+
 div {   
     padding: 15px;
     flex-wrap: wrap;
@@ -30,7 +34,7 @@ div {
     position: fixed;
     bottom: 2vh;
     right: 2vb;
-    width: 38vb;
+    width: 40vb;
     background-color: ghostwhite;
     border: solid darkorange;
     border-width: 5px 2px;
@@ -54,13 +58,13 @@ div {
 }
 
 .chat-box {
-    min-height: 20vh;
+    min-height: 40vh;
     max-height: 80vh;
     overflow-y: scroll;
     border-bottom: 1px solid #ddd;
     display: flex;
     align-items:flex-end;
-    padding:6px;
+    padding:2px;
 }
 
 .user-message {
