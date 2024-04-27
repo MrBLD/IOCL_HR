@@ -52,7 +52,7 @@
             </div>
             <div class="chat-box" id="chatBox">
                 <div>
-                    <label runat="server" class="result" id="resultlabel"></label>
+                    <label runat="server" class="result" id="resultlabel">Hi, how may I help You?</label>
                 </div>
                 <div style="padding:2px; display:flex; flex-wrap:nowrap">
                     <!-- <label for="userInput">Enter Input:</label> -->
