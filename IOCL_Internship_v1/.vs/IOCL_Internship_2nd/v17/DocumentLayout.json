@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\Projects\\P_WebD\\Intern_IOCL\\git\\IOCL_HR\\IOCL_Internship_v1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07DA279A-3B30-46DC-8CEC-D500635A413D}|IOCL_Internship_2nd.csproj|D:\\Projects\\P_WebD\\Intern_IOCL\\git\\IOCL_HR\\IOCL_Internship_v1\\newfolder1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{07DA279A-3B30-46DC-8CEC-D500635A413D}|IOCL_Internship_2nd.csproj|d:\\projects\\p_webd\\intern_iocl\\git\\iocl_hr\\iocl_internship_v1\\newfolder1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{07DA279A-3B30-46DC-8CEC-D500635A413D}|IOCL_Internship_2nd.csproj|solutionrelative:newfolder1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{07DA279A-3B30-46DC-8CEC-D500635A413D}|IOCL_Internship_2nd.csproj|solutionrelative:newfolder1\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07DA279A-3B30-46DC-8CEC-D500635A413D}|IOCL_Internship_2nd.csproj|d:\\projects\\p_webd\\intern_iocl\\git\\iocl_hr\\iocl_internship_v1\\newfolder1\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07DA279A-3B30-46DC-8CEC-D500635A413D}|IOCL_Internship_2nd.csproj|D:\\Projects\\P_WebD\\Intern_IOCL\\git\\IOCL_HR\\IOCL_Internship_v1\\newfolder1\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07DA279A-3B30-46DC-8CEC-D500635A413D}|IOCL_Internship_2nd.csproj|solutionrelative:newfolder1\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,8 +35,7 @@
               "ToolTip": "C:\\Users\\bhask\\AppData\\Local\\Temp\\.vsdbgsrc\\cce1073c3fa8f09c91e90d2854fc524bcfc146361c0b390692475cc4babf81ba\\WebForm1.cs",
               "ViewState": "AQIAADwAAAAAAAAAAAAAACcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T21:19:39.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T21:19:39.898Z"
             },
             {
               "$type": "Document",
@@ -48,8 +47,7 @@
               "RelativeToolTip": "NewFolder1\\WebForm1.aspx.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAUwDgAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-29T08:19:41.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-01-29T08:19:41.43Z"
             },
             {
               "$type": "Document",
@@ -57,8 +55,8 @@
               "Title": "WebForm1.aspx",
               "DocumentMoniker": "D:\\Projects\\P_WebD\\Intern_IOCL\\git\\IOCL_HR\\IOCL_Internship_v1\\NewFolder1\\WebForm1.aspx",
               "RelativeDocumentMoniker": "NewFolder1\\WebForm1.aspx",
-              "ToolTip": "D:\\Projects\\P_WebD\\Intern_IOCL\\git\\IOCL_HR\\IOCL_Internship_v1\\NewFolder1\\WebForm1.aspx",
-              "RelativeToolTip": "NewFolder1\\WebForm1.aspx",
+              "ToolTip": "D:\\Projects\\P_WebD\\Intern_IOCL\\git\\IOCL_HR\\IOCL_Internship_v1\\NewFolder1\\WebForm1.aspx*",
+              "RelativeToolTip": "NewFolder1\\WebForm1.aspx*",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-01-29T08:18:44.542Z",
@@ -74,8 +72,7 @@
               "RelativeToolTip": "NewFolder1\\styles.css",
               "ViewState": "AQIAACcAAAAAAAAAAAAAADwAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-16T23:38:50.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T23:38:50.89Z"
             }
           ]
         }
